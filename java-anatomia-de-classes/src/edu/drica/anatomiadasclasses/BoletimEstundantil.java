@@ -1,3 +1,4 @@
+package anatomiadasclasses;
 public class BoletimEstundantil {
     public static void main(String[] args) {
         int mediaFinal = 7;
