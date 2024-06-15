@@ -1,0 +1,9 @@
+public class MinhaClasse {
+ 
+public static void main (string [] args) {
+    
+    system.out.print ( "Olá turma, sejam bem vindos" );
+        
+} 
+
+}
